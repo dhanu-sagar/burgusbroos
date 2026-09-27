@@ -1,0 +1,6 @@
+{
+  "name": "Burgusbroos",
+  "description": "A personal productivity app built on tiny compounding actions with Simple and Advanced modes, flexible sprint sessions, reality-based time tracking, and weekly progress reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
